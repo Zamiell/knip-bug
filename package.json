@@ -1,0 +1,10 @@
+{
+  "name": "knip-bug",
+  "scripts": {
+    "lint": "bun run ./scripts/lint.ts"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "knip": "^5.45.0"
+  }
+}
