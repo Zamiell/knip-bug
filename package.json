@@ -1,0 +1,12 @@
+{
+  "name": "knip-bug",
+  "type": "module",
+  "scripts": {
+    "test": "bun test"
+  },
+  "dependencies": {
+    "@types/bun": "^1.2.10",
+    "knip": "5.50.5",
+    "typescript": "5.8.3"
+  }
+}
