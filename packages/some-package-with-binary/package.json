@@ -1,0 +1,6 @@
+{
+  "name": "some-package-with-binary",
+  "bin": {
+    "some-binary": "./bin/some-binary"
+  }
+}

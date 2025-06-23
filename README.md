@@ -1,6 +1,6 @@
 # knip-bug
 
-This repository shows that Knip is bugged with Bun.
+This repository shows that Knip is bugged with Bun + workspace binaries.
 
 Steps to reproduce:
 
@@ -34,5 +34,3 @@ However, this is a bug, because the "package.json" file is as follows:
   }
 }
 ```
-
-(Running `bun test` automatically uses the "src/foo.test.ts" file. Try it yourself to see.)
