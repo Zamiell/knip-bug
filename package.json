@@ -1,0 +1,6 @@
+{
+  "name": "knip-bug",
+  "dependencies": {
+    "knip": "5.63.1"
+  }
+}
